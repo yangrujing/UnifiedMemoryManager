@@ -67,9 +67,12 @@
   <ItemGroup>
     <ClInclude Include="..\..\动态内存管理\模版类双向链表\List.hpp" />
     <ClInclude Include="..\..\动态内存管理\模版类双向链表\MemoryManager.h" />
+    <ClInclude Include="List.hpp" />
+    <ClInclude Include="MemoryManager.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\动态内存管理\模版类双向链表\源.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

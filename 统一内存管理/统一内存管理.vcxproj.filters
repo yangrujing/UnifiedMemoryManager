@@ -21,9 +21,18 @@
     <ClInclude Include="..\..\动态内存管理\模版类双向链表\MemoryManager.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="List.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryManager.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\动态内存管理\模版类双向链表\源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
