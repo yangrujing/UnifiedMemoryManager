@@ -1,0 +1,3 @@
+Ptr->00FD67A8
+Filename : c:\code\动态内存管理\模版类双向链表\源.cpp
+Line : 139
