@@ -71,6 +71,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\动态内存管理\模版类双向链表\源.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
